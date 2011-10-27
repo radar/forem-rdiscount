@@ -1,4 +1,3 @@
-require 'forem/formatters/base'
 require 'rdiscount'
 module Forem
   module Formatters
